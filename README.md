@@ -1,7 +1,7 @@
 # http://class4-reactassi.surge.sh/
 
 ![day](https://user-images.githubusercontent.com/57266143/96859904-cf9cf580-14ad-11eb-9541-ea6352d89794.png)<br/>
-# ![night](https://user-images.githubusercontent.com/57266143/96859911-d297e600-14ad-11eb-9261-ba4335eaf85d.png)
+![night](https://user-images.githubusercontent.com/57266143/96859911-d297e600-14ad-11eb-9261-ba4335eaf85d.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
