@@ -7,7 +7,7 @@ function App() {
   let [day, setDay] = useState(false);
   return (
     <div className={`box ${day ? 'light' : 'dark'}`}>
-      <h1 className="mainHeading">Class 4 Assignment</h1>
+      <h1 className="mainHeading">Class 4 Assignment - Hooks</h1>
       <Count counter={number}/> 
       <button onClick={() => setNumber(++number)}>Increment</button>
       <button onClick={() => setNumber(--number)}>Decrement</button>
